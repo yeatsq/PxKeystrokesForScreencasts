@@ -1,8 +1,14 @@
 # PxKeystrokesForScreencasts
 
+forked from https://github.com/Phaiax/PxKeystrokesForScreencasts
+
+
+
 Displays Keystrokes in an overlay window. (Windows 8)
 
 Press <code>Ctrl + Shift + Alt</code> to reveal configuration options, resize, move or close the window.
+
+Press <code>Ctrl + Win + Alt</code> to show or hidden the window.
 
 Demo Video: https://www.youtube.com/watch?v=Ud3tqB8TMVc
 
